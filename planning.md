@@ -25,14 +25,14 @@ The domain I chose is student discounts and perks. This knowledge is important t
 | 2 | FIU online page | 10 ways to slay your next semester online | https://fiuonline.fiu.edu/about-us/story-hub/student/10-ways-to-slay-your-next-semester-online.php |
 | 3 | FIU's webpage | FIU Food Pantry | https://dasa.fiu.edu/all-departments/student-food-pantry/ |
 | 4 | Unidays web page | Student ID for discounts | https://www.myunidays.com/US/en-US |
-| 5 | FIU iGrad webpage | A service to help FIU students with their financial goals | https://fiu.igrad.com/ |
+| 5 | FIU News article | FIU's iGrad financial wellness partnership for students/faculty/staff | https://news.fiu.edu/2020/fiu-offers-interactive,-digital-financial-literacy-platform-and-financial-wellness-coaches-to-university-community |
 | 6 | FIU alumni page | FIU discounts for alumni (Disneyland, etc.) | https://fiualumni.com/resources/discounts/ |
 | 7 | FIU transfer website (Connect4Success) | FIU One Card Benefits | https://transfer.fiu.edu/connect4success/one-card-benefits/ |
 | 8 | Gallo 8 Gym webpage | Gyms with student discounts in Miami | https://gallo8gym.com/blog/gyms-with-student-discounts-miami |
 | 9 | FIU Human Resources page | Employee perks and services | https://hr.fiu.edu/employees-affiliates/benefits/perks-services/ |
 | 10 | FIU Sports page | Ticket Smarter and FIU Miami entertainment guide | https://fiusports.com/news/2024/2/21/general-ticket-smarter-and-fiu-miami-entertainment-guide.aspx |
 | 11 | FIU One Card page | FIU One Card employee perks | https://onecard.fiu.edu/card-perks/employee-perks/ |
-| 12 | FIU Online software page | Free software resources available to students | https://fiuonline.my.site.com/canvas/s/article/Software-Resources |
+| 12 | FIU Libraries LibAnswers FAQ | What free software students can access from home and how to download it | https://libanswers.fiu.edu/faq/18206 |
 | 13 | PantherNOW article | FIU perks for commuters (free air/inflation station, jump-start help) | https://panthernow.com/2023/04/10/commuters-here-are-some-fiu-perks-you-should-know-about/ |
 ---
 
@@ -89,7 +89,7 @@ For this project I used all-MiniLM-L6-v2 because it is small, fast, runs locally
 | # | Question | Expected answer | Source # |
 |---|----------|-----------------|----------|
 | 1 | does FIU have any resources to help students with personal finance? | FIU has partnered with iGrad to offer financial wellness tools to students (as well as faculty and staff) across the university| 5 |
-| 2 | where can I find the free software provided to students? | FIU offers links to a range of software resources at no extra cost to students.https://fiuonline.my.site.com/canvas/s/article/Software-Resources| 12 |
+| 2 | where can I find the free software provided to students? | FIU students can download free software (e.g. Microsoft Office at freeoffice.fiu.edu and programs via eLabs @FIU) by logging in with their FIU credentials; see the FIU Libraries software FAQ. | 12 |
 | 3 | what Discounts are there for alumni?| FIU HAS A Panther Perks Program that has a variety of different discounts listed | 6 |
 | 4 | what are the FIU One Card Benefits| Attend Home Athletic Games, FIU Library Privileges like: Book-borrowing privileges: 10 books for 30 days, with 1 online renewal. Access to all online databases while inside the library. Access to librarians with expertise in specific disciplines. Remote access to online databases and Wellness & Recreation Center From yoga to swimming, kayaking to personal training, FIU’s Wellness & Recreation Center (WRC) is more than just a gym!| 7 |
 | 5 | How does FIU help Car Owners?|  free inflation station around campus that is easy to use. If a car needs to be jump started, help is closer than ever, free, and only a phone call away. | 13 |

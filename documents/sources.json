@@ -29,17 +29,17 @@
   },
   {
     "id": 5,
-    "filename": "05_fiu-igrad-com.txt",
-    "url": "https://fiu.igrad.com/",
-    "status": "thin",
-    "chars": 0
+    "filename": "05_fiu-offers-interactive-digital-financial-literacy-.txt",
+    "url": "https://news.fiu.edu/2020/fiu-offers-interactive,-digital-financial-literacy-platform-and-financial-wellness-coaches-to-university-community",
+    "status": "ok",
+    "chars": 2507
   },
   {
     "id": 6,
     "filename": "06_discounts.txt",
     "url": "https://fiualumni.com/resources/discounts/",
     "status": "ok",
-    "chars": 365
+    "chars": 3587
   },
   {
     "id": 7,
@@ -78,10 +78,10 @@
   },
   {
     "id": 12,
-    "filename": "12_software-resources.txt",
-    "url": "https://fiuonline.my.site.com/canvas/s/article/Software-Resources",
-    "status": "thin",
-    "chars": 46
+    "filename": "12_18206.txt",
+    "url": "https://libanswers.fiu.edu/faq/18206",
+    "status": "ok",
+    "chars": 7860
   },
   {
     "id": 13,

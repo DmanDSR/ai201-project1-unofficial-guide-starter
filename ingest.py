@@ -23,14 +23,18 @@ SOURCES = [
     (2, "https://fiuonline.fiu.edu/about-us/story-hub/student/10-ways-to-slay-your-next-semester-online.php"),
     (3, "https://dasa.fiu.edu/all-departments/student-food-pantry/"),
     (4, "https://www.myunidays.com/US/en-US"),
-    (5, "https://fiu.igrad.com/"),
-    (6, "https://fiualumni.com/resources/discounts/"),
+    (5, "https://news.fiu.edu/2020/fiu-offers-interactive,-digital-financial-literacy-platform-and-financial-wellness-coaches-to-university-community"),
+    # The canonical discounts page is JavaScript-rendered (only a short intro is
+    # in the HTML), so we also pull the Panther Perks newsroom page, which lists
+    # the actual alumni deals. Both are fetched and concatenated into one doc.
+    (6, ["https://fiualumni.com/resources/discounts/",
+         "https://fiualumni.com/stay-connected/alumni-news/newsroom/index.php/tag/panther-perks/"]),
     (7, "https://transfer.fiu.edu/connect4success/one-card-benefits/"),
     (8, "https://gallo8gym.com/blog/gyms-with-student-discounts-miami"),
     (9, "https://hr.fiu.edu/employees-affiliates/benefits/perks-services/"),
     (10, "https://fiusports.com/news/2024/2/21/general-ticket-smarter-and-fiu-miami-entertainment-guide.aspx"),
     (11, "https://onecard.fiu.edu/card-perks/employee-perks/"),
-    (12, "https://fiuonline.my.site.com/canvas/s/article/Software-Resources"),
+    (12, "https://libanswers.fiu.edu/faq/18206"),
     (13, "https://panthernow.com/2023/04/10/commuters-here-are-some-fiu-perks-you-should-know-about/"),
 ]
 
@@ -78,24 +82,31 @@ def main() -> None:
     manifest = []
 
     for doc_id, url in SOURCES:
-        filename = f"{doc_id:02d}_{slug_from_url(url)}.txt"
+        # A source may be one URL or a list of URLs to merge into one document.
+        urls = [url] if isinstance(url, str) else list(url)
+        canonical = urls[0]
+        filename = f"{doc_id:02d}_{slug_from_url(canonical)}.txt"
         out_path = DOCS_DIR / filename
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=20)
-            resp.raise_for_status()
-            text = clean_html(resp.text)
+
+        parts = []
+        for u in urls:
+            try:
+                resp = requests.get(u, headers=HEADERS, timeout=20)
+                resp.raise_for_status()
+                parts.append(clean_html(resp.text))
+            except Exception as exc:  # noqa: BLE001 - report and keep going
+                print(f"[FAILED] #{doc_id:2}  {u}\n         {exc}")
+
+        text = "\n\n".join(p for p in parts if p)
+        if text:
             out_path.write_text(text, encoding="utf-8")
-            status = "ok" if len(text) >= 200 else "thin"
-            print(f"[{status:4}] #{doc_id:2}  {len(text):6} chars  -> {filename}")
-        except Exception as exc:  # noqa: BLE001 - report and keep going
-            text = ""
-            status = "FAILED"
-            print(f"[{status}] #{doc_id:2}  {url}\n         {exc}")
+        status = "ok" if len(text) >= 200 else ("thin" if text else "FAILED")
+        print(f"[{status:4}] #{doc_id:2}  {len(text):6} chars  -> {filename}")
 
         manifest.append({
             "id": doc_id,
             "filename": filename,
-            "url": url,
+            "url": canonical,
             "status": status,
             "chars": len(text),
         })

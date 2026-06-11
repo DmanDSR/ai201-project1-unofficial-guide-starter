@@ -1,0 +1,587 @@
+Skip to Main Content
+LibGuides
+A-Z List
+Find
+Research: How
+Research Methods
+Citations & Plagiarism
+Faculty Resources
+Online Student Resources
+Visitors, Alumni, & Retirees
+Help
+(current)
+FIU Libraries
+LibAnswers @ FIU
+Q. What software can I access from home? How can I download these programs to use on my computer?
+What programs are available to download using eLabs? I need a list of all software included in the eLabs package. Is SPSS and Microsoft Office available?
+Browse:
+All
+Groups
+Reference
+Zoom Reference
+Topics
+14
+Alumni
+42
+Articles
+46
+Books
+23
+Catalog
+53
+Circulation
+16
+Citation
+5
+Classroom
+18
+Collections
+21
+Computers
+3
+Conference Rooms
+6
+Copyright
+51
+Databases
+30
+Devices
+8
+Directions
+6
+Document Delivery
+11
+Documents
+18
+eBooks
+2
+Employment
+3
+EndNote
+8
+eReaders
+27
+Faculty
+15
+Fines
+14
+FIU
+8
+FIU at I-75
+1
+Food
+14
+Forms
+5
+Google
+11
+Group Study
+4
+Holds
+8
+Hours
+5
+ILL
+2
+ILLIAD
+10
+Instruction
+5
+Intercampus Loan
+8
+InterLibrary Loan
+1
+Labs
+16
+Liaisons
+11
+Librarians
+34
+Library Account
+23
+Library Card
+17
+Library Locations
+30
+Library Spaces
+19
+Media
+13
+Off-Campus Access
+10
+Other Libraries
+8
+Plagiarism
+73
+Policies
+2
+Preservation
+11
+Printing/Copying
+2
+Professional Development
+1
+Publishing
+6
+Refworks
+12
+Requests
+66
+Research
+19
+Reserves
+8
+Scanning
+14
+Scholarly
+53
+Searching
+79
+Services
+7
+Sound & Image
+7
+Studying
+13
+Subjects
+6
+Suggestion
+40
+Technology
+3
+Tutoring
+4
+UBorrow
+18
+Visitor
+Answered By:
+Sarah J. Hammill
+Last Updated:
+Sep 23, 2024
+Views:
+5445
+Many software programs are available on any computer through eLabs @FIU. To download, log in with your FIU credentials and select the programs to download.
+Login to eLabs
+Software List
+The following is a list of currently available software on the eLabs Platform. Note, this list was compiled in March 2020. Refer to the
+Division of IT
+at 305-348-2284 for the latest information.
+Access 2013
+Amos 26
+Altas ti
+Excel 2013
+HLM
+InfoPath Designer 2013
+Mathematica 9
+MATLAB R2019a
+Microsoft Mathematics
+Minitab 19
+NVIVO 12
+OneNote 2013
+PaintNET
+PowerPoint 2013
+Publisher 2013
+SAS 94
+Sharepoint Designer 2010
+SPSS 23
+SPSS 25
+SPSS 26
+STATA 16
+The R Project
+TIBCO Spotfire SPlus
+Word 2013
+For more information on eLabs, click
+eLabs
+Troubleshooting Tips
+below.
+Links & Files
+eLabs @FIU
+Opens in new window
+eLabs Troubleshooting Tips
+Opens in new window
+Get Help Service Desk: Contact FIU's IT
+Opens in new window
+Microsoft Products
+Opens in new window
+FAQ Actions
+Print
+Tweet
+Share on Facebook
+Was this helpful?
+0
+0
+Chat with a Librarian
+Ask Us Contact Box
+We're here to help!
+Librarians provide research help to students, faculty, staff, and community members.
+Chat/IM
+a librarian,
+Ask Us!
+SMS/TXT
+to (305) 240-6585
+Call
+(305) 348-2454 MMC | (305) 919-5726 BBC
+Email
+your question.
+asklib@fiu.edu
+Tweet
+@FIULibraries
+Schedule a
+research consultation
+.
+Browse our
+FAQ's
+.
+LibGuides
+: Research & Subject Guides
+Hours
+for in-person Research Help
+Ask another question FAQ search
+Search our FAQs
+Use this box to search for answers that have been asked & answered.
+Submit a Question
+Related Topics
+Media
+Databases
+Technology
+Computers
+Research
+FIU
+Devices
+Services
+FAQs
+Popular FAQs
+Recent Questions
+Featured Answers
+FIU library hours
+Last Updated:
+Jun 11, 2024
+|
+Topics:
+Hours
+|
+Views:
+27649
+Can I reserve a group study room?
+Last Updated:
+Sep 05, 2024
+|
+Topics:
+Group Study
+Library Spaces
+Studying
+|
+Views:
+14717
+Can I download Microsoft Office software for free?
+Last Updated:
+Aug 24, 2020
+|
+Topics:
+Technology
+|
+Views:
+14238
+How can I access spss off campus?
+Last Updated:
+Aug 24, 2020
+|
+Topics:
+Computers
+Databases
+Off-Campus Access
+Technology
+|
+Views:
+11424
+How can I access NYTimes.com?
+Last Updated:
+Jun 17, 2025
+|
+Topics:
+Articles
+Databases
+Services
+|
+Views:
+9218
+Use Rapido to request Interlibrary Loans
+Last Updated:
+May 21, 2026
+|
+Topics:
+Intercampus Loan
+InterLibrary Loan
+|
+Views:
+2327
+How do I use Datastream?
+Last Updated:
+May 05, 2026
+|
+Topics:
+Databases
+|
+Views:
+192
+FIU Libraries Donation Policy and Workflow
+Last Updated:
+Apr 16, 2026
+|
+Topics:
+Collections
+Forms
+Policies
+Suggestion
+|
+Views:
+126
+A book is listed as available, but I cannot find it in the bookcase where it is supposed to be. What do I do next?
+Last Updated:
+Feb 27, 2026
+|
+Topics:
+Books
+InterLibrary Loan
+UBorrow
+|
+Views:
+225
+Can I have books and/or articles delivered to the Broward FIU at I-75 in Miramar facility?
+Last Updated:
+Feb 27, 2026
+|
+Topics:
+Articles
+Books
+Document Delivery
+FIU at I-75
+ILL
+Library Locations
+Other Libraries
+Services
+|
+Views:
+321
+How do I find out when the libraries open and close?
+Last Updated:
+Sep 03, 2023
+|
+Topics:
+Hours
+|
+Views:
+614
+How do I find peer-reviewed journals?
+Last Updated:
+Sep 26, 2023
+|
+Topics:
+Articles
+Databases
+Research
+Scholarly
+Searching
+|
+Views:
+1579
+How do I use course reserves?
+Last Updated:
+Aug 03, 2021
+|
+Topics:
+Circulation
+Reserves
+Searching
+Services
+|
+Views:
+1271
+Popular Topics
+Popular Topics
+Services
+Policies
+Research
+Searching
+Circulation
+Databases
+Books
+Articles
+Technology
+Library Account
+Library Spaces
+Devices
+Faculty
+Catalog
+Library Card
+Computers
+Media
+Reserves
+eBooks
+Visitor
+Collections
+Library Locations
+Liaisons
+Citation
+Fines
+Forms
+FIU
+Scholarly
+Alumni
+Subjects
+Off-Campus Access
+Requests
+Documents
+Group Study
+Printing/Copying
+Librarians
+Instruction
+Other Libraries
+Hours
+InterLibrary Loan
+Plagiarism
+Directions
+eReaders
+FIU at I-75
+Scanning
+Studying
+Sound & Image
+Document Delivery
+Refworks
+Suggestion
+Copyright
+ILL
+Intercampus Loan
+Google
+Classroom
+Holds
+UBorrow
+Conference Rooms
+Tutoring
+EndNote
+ILLIAD
+Employment
+Preservation
+Professional Development
+Food
+Labs
+Publishing
+Powered by
+Springshare
+; All rights reserved.
+Report a tech support issue.
+Login to LibApps
+Information
+Library Floorplans
+FIU Libraries Floorplans
+MMC
+BBC
+Green Library, Modesto A. Maidique Campus
+Floor
+Resources
+One
+Center for Academic Success: University Learning/Testing Center
+Electronic Classroom
+Broadcast Video Productions
+Resource for Education Technology
+UTS - Media Equipment Services
+Distance Learning Electronic Classroom
+Instructional Photography & Graphics
+Two
+Information & Research Services
+Curriculum & Juvenile Collection
+LACiC - Latin American and Caribbean Center
+Government Documents
+GIS-RS Center & Teaching Lab
+Maps & Imagery User Statistics
+Three
+Periodicals & Newspapers
+Laptop Lounge
+Honors College Student Resource Center
+College of Medicine Library
+Copiers
+Systems
+Four
+College of Medicine
+Special Collections & Archivese
+Academic Space Management
+School of Social Work
+Study Area
+Five
+Audiovisual Collection
+Diaz Ayala Collection
+Architecture and Fine Arts (General Collection and Periodical Section N)
+Music (General Collection and Periodical Section M)
+Music Listening Room
+Music CAI Center
+Spanish Resource Center
+Group Study Rooms
+Six
+Quiet Study Space
+Group Study Rooms
+General Collection HJ-L & P-Z
+Oversized Books
+Seven
+General Collection A-HG
+Quiet Study Floor
+Group Study Rooms
+Eight
+Library Administration
+Collection Management
+Digital Collections Center
+Hubert Library, Biscayne Bay Campus
+Floor
+Resources
+One
+Circulation
+Course Reserves
+Intercampus/Interlibrary Loan
+Information and Research Services
+Center for Excellence in Writing
+Communication Arts Studio
+Computer Labs/Copiers
+Two
+Microforms
+Periodicals
+Juvenile Collection
+Oversize Collection
+Video Collection
+Government Documents
+Reference Workroom
+Reference Collection
+Copiers
+Three
+General Collection, A-Z
+Library Administration
+Staff Directory
+Statistics
+Work with us!
+FDLP Library
+Libraries
+Engineering Center
+Law Library
+Medical Library
+FIU at I-75
+Wolfsonian Library
+Contact
+MMC
+BBC
+Circulation:
+305.348.2451
+Reference:
+305.348.2454
+Directions: Green Library, MMC
+×
+Circulation:
+305.919.5718
+Reference:
+305.919.5726
+Directions: Hubert Library, BBC
+×
+Web/Accessibility Policy
+Nondiscrimination
+Title IX
+Report Discrimination or Harassment
+Website Feedback
+©
+FIU Libraries

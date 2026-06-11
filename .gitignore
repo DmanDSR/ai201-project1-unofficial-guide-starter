@@ -1,6 +1,9 @@
 # API keys — never commit these
 .env
 
+# Personal context/working notes — not part of the submission
+CONTEXT.md
+
 # Python
 __pycache__/
 *.py[cod]
